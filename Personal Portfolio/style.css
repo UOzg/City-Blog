@@ -55,3 +55,32 @@ nav a:hover {
 #about p {
     font-size: 32px;
 }
+
+#projects {
+    background-color: #5F4842;
+    padding: 80px 32px;
+    text-align: center;
+}
+
+section h2 {
+    font-size: 40px;
+    margin-bottom: 48px;
+}
+
+#projects div {
+    max-width: 522px;
+    background-color: #2A2B2A;
+    margin-bottom: 32px;
+    display: inline-block;
+}
+
+#projects div img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#projects a {
+    font-size: 16px;
+    padding-bottom: 32px;
+    display: block;
+}
